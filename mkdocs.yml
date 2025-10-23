@@ -1,6 +1,6 @@
 # ... (rest of the file)
 nav:
-  - Introduction: main.md
+  - Introduction: index.md
   - System Architecture: 
     - SCADA Overview: main.md
     # ... (add all your .md files here)
