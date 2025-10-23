@@ -1,0 +1,17 @@
+# ... (rest of the file)
+nav:
+  - Introduction: index.md
+  - System Architecture: 
+    - SCADA Overview: system-architecture/overview.md
+    # ... (add all your .md files here)
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.expand
+    - search.suggest
+    - search.highlight 
+plugins:
+  # This ensures the search function is active and indexes your content
+  - search
