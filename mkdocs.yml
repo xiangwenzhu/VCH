@@ -1,3 +1,6 @@
+site_name: WAGO SCADA Product User Manual
+site_url: https://xiangwenzhu.github.io/VCH/
+
 # ... (rest of the file)
 nav:
   - Introduction: index.md
